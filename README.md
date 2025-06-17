@@ -55,7 +55,7 @@ Identify and clean missing data to ensure accurate analysis.
 ### 📈 Visualization:
 - A **line chart** was created showing missing % per column.
 - Helped decide what to clean and what to retain.
-  ![](Visualizations/1.png)
+![](Visualizations/1.png)
 
 
 ### ✅ Outcome:
@@ -86,10 +86,10 @@ To understand unusual customer behaviors, detect and visualize extreme values in
 
 ### 📈 Visualization:
 - Box plots visually displayed the spread and outliers for each financial column
-  ![](Visualizations/2.png)
-  ![](Visualizations/3.png)
-  ![](Visualizations/4.png)
-  ![](Visualizations/5.png)
+![](Visualizations/2.png)
+![](Visualizations/3.png)
+![](Visualizations/4.png)
+![](Visualizations/5.png)
 
 ### 💡 Insight:
 Some customers have unusually high loan amounts and incomes. These may indicate either higher risk or special cases that need careful review.
@@ -110,7 +110,8 @@ Check whether the dataset has a balanced distribution of loan repayment statuses
 ### 📈 Results:
 - **92%** of customers **Repaid**
 - Only **8%** **Defaulted**
-  ![](Visualizations/6.png)
+
+![](Visualizations/6.png)
 
 ### 📌 Insight:
 - The dataset is **highly imbalanced**, with defaulters underrepresented.
@@ -134,9 +135,9 @@ Understand how customer occupations are distributed.
 #### 📈 Key Insights:
 - **31.31%** of customers had occupation marked as "**Unknown**"
 - **Laborers (17.90%)** and **Sales staff (10.32%)** were next most common
-  ![](Visualizations/7.png)
+![](Visualizations/7.png)
 - **25% of defaulters** belonged to the "Unknown" group → **potential risk**
-  ![](Visualizations/7.png)
+![](Visualizations/12.png)
   
 
 ---
@@ -149,7 +150,7 @@ Understand how customer occupations are distributed.
 - **Clustered Column Chart** used to compare segments
 - **Highest default rate** seen in age **31–40**
 - Youngest and oldest customers had **lower default rates**
-  ![](Visualizations/8.png)
+![](Visualizations/8.png)
 
 #### 🔸 Credit Amount vs Region Rating
 
@@ -187,7 +188,6 @@ Understand how customer occupations are distributed.
 - **Laborers, Unknown** had **lower** values
 ![](Visualizations/14.png)
 
----
 ---
 
 ## 📈 Task E – Identify Top Correlations for Different Scenarios
@@ -249,8 +249,6 @@ Analyze which numerical variables are most strongly related for two groups:
 ### 💡 Overall Insights:
 - **Occupation**, **age**, **region**, **education**, and **income** significantly impact loan decisions
 - Segment-based insights can improve credit scoring and risk analysis
-
----
 
 ---
 
