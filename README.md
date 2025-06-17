@@ -155,7 +155,7 @@ Understand how customer occupations are distributed.
 
 - Pivot with slicers: **Unemployed + Defaulted** customers
 - Average credit by **region rating**
-- ![](Visualizations/9.png)
+![](Visualizations/9.png)
 - Found that in **region 3**, **unemployed defaulters** had **₹7.83 lakh** average credit → higher than other regions
 ![](Visualizations/10.png)
 
@@ -177,7 +177,7 @@ Understand how customer occupations are distributed.
   - Males who defaulted: **₹1,57,500**
   - Female income remained same regardless of repayment
   - Unknown gender group had higher repaid income
-    ![](Visualizations/13.png)
+![](Visualizations/13.png)
 
 #### 🔸 Income vs Credit by Occupation
 
@@ -232,7 +232,7 @@ Analyze which numerical variables are most strongly related for two groups:
 - **AMT_CREDIT ↔ AMT_ANNUITY**: **0.75**
 - **AGE**: Weak or no correlation with financial variables
 - **CNT_CHILDREN ↔ AGE**: **-0.25** → younger defaulters had more children
-  ![](Visualizations/15.png)
+![](Visualizations/15.png)
 
 #### ✅ Clients Who Repaid:
 
