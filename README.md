@@ -110,7 +110,7 @@ Check whether the dataset has a balanced distribution of loan repayment statuses
 ### 📈 Results:
 - **92%** of customers **Repaid**
 - Only **8%** **Defaulted**
-- ![](Visualizations/6.png)
+  ![](Visualizations/6.png)
 
 ### 📌 Insight:
 - The dataset is **highly imbalanced**, with defaulters underrepresented.
@@ -134,7 +134,7 @@ Understand how customer occupations are distributed.
 #### 📈 Key Insights:
 - **31.31%** of customers had occupation marked as "**Unknown**"
 - **Laborers (17.90%)** and **Sales staff (10.32%)** were next most common
--   ![](Visualizations/7.png)
+  ![](Visualizations/7.png)
 - **25% of defaulters** belonged to the "Unknown" group → **potential risk**
   ![](Visualizations/7.png)
   
@@ -177,7 +177,7 @@ Understand how customer occupations are distributed.
   - Males who defaulted: **₹1,57,500**
   - Female income remained same regardless of repayment
   - Unknown gender group had higher repaid income
-  - ![](Visualizations/13.png)
+    ![](Visualizations/13.png)
 
 #### 🔸 Income vs Credit by Occupation
 
@@ -287,12 +287,6 @@ The Excel workbook containing raw data, cleaned data, pivot tables, charts, and 
 3. Use the pivot tables and charts as templates to modify or add your own analysis.
 4. Refer to this README for explanations and insights on each task.
 5. Use Excel 2021 or later for full compatibility with Power Query and chart features.
-
----
-
-### 📬 Contact
-
-For questions or suggestions, feel free to reach out.
 
 ---
 
