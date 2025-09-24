@@ -259,8 +259,11 @@ Provide an interactive visualization of loan repayment behaviors, allowing dynam
 - Interactive charts: Column, Funnel, Line, and Pie
 
 ### 📂 Access:
-The Power BI report file is available here:
-[🔗 Bank Loan Power BI Report (PBIX)](YOUR_POWER_BI_LINK_HERE)
+The Power BI report file is available in this repository:  
+[🔗 Bank Loan Power BI Report (PBIX)](./Bank_Loan_Visualisations.pbix)
+
+> Open this file in Power BI Desktop to explore interactive dashboards and slicers.
+
 ---
 ### 💡 Insights:
 - Across both groups, **credit amount and goods price** are tight
@@ -301,7 +304,7 @@ The Excel workbook containing raw data, cleaned data, pivot tables, charts, and 
 
 1. Download or open the Excel workbook from the Google Drive link.
 2. Explore the sheets containing raw data, cleaned data, and different analysis tasks.
-3. Use the pivot tables and charts as templates to modify or add your own analysis.
+3. Explore the sheets in Excel and the Power BI report for interactive visualizations and analysis.
 4. Refer to this README for explanations and insights on each task.
 5. Use Excel 2021 or later for full compatibility with Power Query and chart features.
 
