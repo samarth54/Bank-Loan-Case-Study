@@ -4,7 +4,7 @@
 
 This is a project aimed at upskilling in data analysis using Microsoft Excel. The goal of this case study is to explore patterns and insights from urban loan applicants to understand loan repayment behaviors and help identify key risk indicators. 
 
-The analysis was conducted using a real-world loan dataset and includes data cleaning, univariate and bivariate analysis, handling of missing data, outlier detection, data imbalance study, and correlation insights — all implemented through Excel-based techniques like Pivot Tables, charts, Power Query, and dashboards.
+The analysis was conducted using a real-world loan dataset and includes data cleaning, univariate and bivariate analysis, handling of missing data, outlier detection, data imbalance study, and correlation insights — all implemented through Excel-based techniques like Pivot Tables, charts, Power Query, and dashboards and an interactive Power BI dashboard to explore patterns, repayment behaviors, and risk indicators dynamically.
 
 ## 🎯 Project Objectives
 
@@ -24,6 +24,12 @@ The analysis was conducted using a real-world loan dataset and includes data cle
   - Charts & Visualizations (Pie, Column, Box, Funnel, Line)
   - Power Query for ETL (Extract, Transform, Load)
   - Excel functions (IF, COUNTBLANK, CORREL, AVERAGE, MEDIAN, etc.)
+    
+- **Microsoft Power BI**:
+  - Interactive dashboards
+  - Filters, slicers, and drill-downs
+  - Visual analytics to explore repayment behavior and trends
+
 - **Microsoft Word**:
   - For compiling the project report
 
@@ -242,7 +248,20 @@ Analyze which numerical variables are most strongly related for two groups:
 - **CNT_CHILDREN ↔ AGE**: **-0.33** → stronger than in default group
 ![](Visualizations/16.png)
 ---
+## 📊 Power BI Dashboard
 
+### 🎯 Objective:
+Provide an interactive visualization of loan repayment behaviors, allowing dynamic exploration of income, credit amount, age, occupation, and repayment status.
+
+### 🧰 Features:
+- Slicers for gender, age groups, and region
+- Drill-through to segment defaulters vs. repaid clients
+- Interactive charts: Column, Funnel, Line, and Pie
+
+### 📂 Access:
+The Power BI report file is available here:
+[🔗 Bank Loan Power BI Report (PBIX)](YOUR_POWER_BI_LINK_HERE)
+---
 ### 💡 Insights:
 - Across both groups, **credit amount and goods price** are tight
 
